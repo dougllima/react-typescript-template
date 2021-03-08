@@ -1,0 +1,8 @@
+{
+  "short_name": "name",
+  "name": "full name",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
